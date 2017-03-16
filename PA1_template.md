@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 Alson Yap  
-
+**Important: Read the file named PA1_template.md to see the file with plots embedded!**
 
 ## 1 Loading and preprocessing the data
 #### 1.1 Loading the data
